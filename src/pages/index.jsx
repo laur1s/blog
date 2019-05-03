@@ -97,13 +97,13 @@ const Index = () => (
       <About offset={3}>
         <Title>About</Title>
         <AboutHero>
-          <Avatar src={avatar} alt="John Doe" />
+          <Avatar src={avatar} alt="Laurįnas" />
           <AboutSub>
-            Todo
+            Work
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          TODO
+          I'm engineer that work on big data teams at multiple companies. I worked at AWS where I helped companies to adopt AI and Machine learning.
         </AboutDesc>
       </About>
       <Contact offset={4}>
