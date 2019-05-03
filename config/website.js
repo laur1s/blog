@@ -7,15 +7,15 @@ module.exports = {
   siteTitleAlt: 'Laurįnas', // Alternative Site title for SEO
   siteTitleShort: 'Laurįnas', // short_name for manifest
   siteHeadline: 'Laurįnas', // Headline for schema.org JSONLD
-  siteUrl: 'https://cara.lekoarts.de', // Domain of your site. No trailing slash!
+  siteUrl: 'https://xn--laurnas-efb.lt', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
-  siteDescription: 'Playful & Colorful One-Page website with Parallax effect',
-  author: 'LekoArts', // Author for schema.org JSONLD
+  siteDescription: 'Personal Space',
+  author: 'Laurįnas', // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
-  userTwitter: '@cara', // Twitter Username
-  ogSiteName: 'cara', // Facebook Site Name
+  userTwitter: '@none', // Twitter Username
+  ogSiteName: 'laur', // Facebook Site Name
   ogLanguage: 'en_US', // Facebook Language
   googleAnalyticsID: 'UA-47519312-5',
 
