@@ -103,7 +103,7 @@ const Index = () => (
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          I'm engineer that work on big data teams at multiple companies. I worked at AWS where I helped companies to adopt AI and Machine learning.
+          I'm engineer that worked on big data teams at multiple companies. I worked at AWS where I helped companies to adopt AI and Machine learning.
         </AboutDesc>
       </About>
       <Contact offset={4}>
