@@ -71,11 +71,11 @@ const Index = () => (
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Freiheit"
-            link="https://www.behance.net/gallery/58937147/Freiheit"
+            title="Hea.lt"
+            link="https://www.hea.lt"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            This project is my entry to Adobe's #ChallengeYourPerspective contest.
+            The best health app in the world
           </ProjectCard>
           <ProjectCard
             title="Harry Potter"
@@ -121,15 +121,11 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
-            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            Say <a href="mailto:ltumos@protonmail.com">Hi</a> 
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
-          <a href="https://www.lekoarts.de">LekoArts</a>.
+          &copy; 2019 by Laurįnas.{' '}
         </Footer>
       </Contact>
     </Parallax>
